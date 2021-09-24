@@ -20,4 +20,4 @@ const setTagAsDone = async(element, id) => {
     console.log(error);
     alert ('Erro ao atualizar a tarefa');
   }
-} 
+
